@@ -5,7 +5,7 @@
 <img width="350" height="250" src="https://github.com/k-cochrane/k-cochrane/assets/1893625/a5e30c0b-cc0d-4f69-adea-386166efa1a2" alt="Ethical Hacking with zSecurity">
 
 <h2>My HackTheBox Profile:</h2>
-<a href="https://app.hackthebox.com/profile/1165648" target="_blank"><img width="500" height="150" src="https://github.com/k-cochrane/k-cochrane/assets/1893625/4b8aba4c-01a5-44ee-b714-2553428c84a0"></a>
+<a href="https://app.hackthebox.com/profile/1165648" target="_blank"><img width="500" height="100" src="https://github.com/k-cochrane/k-cochrane/assets/1893625/4b8aba4c-01a5-44ee-b714-2553428c84a0" alt="Kevin Cochrane HackTheBox profile"></a>
 
 
 <h2>Some of my Ethical Hacking Projects:</h2>
