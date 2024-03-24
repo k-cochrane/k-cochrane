@@ -15,7 +15,7 @@
 - <a href="https://github.com/k-cochrane/Stealth-Report">Stealth Report </a>
 
 <h2>I'm currently studying for:</h2>
-<h3><a href="https://www.comptia.org/certifications/security">Comptia Security+ </a> (SYO-701)</h3>
+<h3><a href="https://www.comptia.org/certifications/security">CompTIA Security+ </a> (SYO-701)</h3>
 
 <h2> Connect with me:</h2>
 
