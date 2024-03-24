@@ -14,6 +14,9 @@
 - <a href="https://github.com/k-cochrane/Keylogger">Keylogger </a><br>
 - <a href="https://github.com/k-cochrane/Stealth-Report">Stealth Report </a>
 
+<h2>I'm currently studying for:</h2>
+<h3>Comptia Security+</h3>
+
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="KevinCochrane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
