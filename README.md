@@ -1,4 +1,12 @@
 <h1>Hi, I'm Kevin! <br/></h1><h3>I'm an English Teacher aspiring to move into Cybersecurity with a focus on Pentetration Testing. </h3>
+
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="KevinCochrane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="KevinCochrane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/bearded_hacker
+[linkedin]: https://linkedin.com/in/kevin-cochrane-04509424b/
   <!--
 **k-cochrane/k-cochrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
