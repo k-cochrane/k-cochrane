@@ -1,8 +1,8 @@
 <h1>Hi, I'm Kevin! <br/></h1><h3>I'm an English Teacher aspiring to move into Cybersecurity with a focus on Pentetration Testing. </h3>
 
 <h2>My Certifications:</h2>
-<img width="250" height="250" src="https://github.com/k-cochrane/k-cochrane/assets/1893625/f79bb2f5-2388-48b3-83cf-b2b10fa129af">
-<img width="350" height="250" src="https://github.com/k-cochrane/k-cochrane/assets/1893625/a5e30c0b-cc0d-4f69-adea-386166efa1a2">
+<img width="250" height="250" src="https://github.com/k-cochrane/k-cochrane/assets/1893625/f79bb2f5-2388-48b3-83cf-b2b10fa129af" alt="Comptia Network+ Certification"> &nbsp; &nbsp;
+<img width="350" height="250" src="https://github.com/k-cochrane/k-cochrane/assets/1893625/a5e30c0b-cc0d-4f69-adea-386166efa1a2" alt="Ethical Hacking with zSecurity">
 
 
 <h2>Some of my Ethical Hacking Projects:</h2>
