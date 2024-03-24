@@ -4,6 +4,9 @@
 <img width="250" height="250" src="https://github.com/k-cochrane/k-cochrane/assets/1893625/f79bb2f5-2388-48b3-83cf-b2b10fa129af" alt="Comptia Network+ Certification"> &nbsp; &nbsp;
 <img width="350" height="250" src="https://github.com/k-cochrane/k-cochrane/assets/1893625/a5e30c0b-cc0d-4f69-adea-386166efa1a2" alt="Ethical Hacking with zSecurity">
 
+<h2>My HackTheBox Profile:</h2>
+<a href="https://app.hackthebox.com/profile/1165648" target="newtab"><img width="500" height="200" src="https://github.com/k-cochrane/k-cochrane/assets/1893625/4b8aba4c-01a5-44ee-b714-2553428c84a0"></a>
+
 
 <h2>Some of my Ethical Hacking Projects:</h2>
 - <a href="https://github.com/k-cochrane/Network-Scanner">Network Scanner </a><br>
