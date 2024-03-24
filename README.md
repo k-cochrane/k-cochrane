@@ -1,9 +1,9 @@
 <h1>Hi, I'm Kevin! <br/></h1><h3>I'm an English Teacher aspiring to move into Cybersecurity with a focus on Pentetration Testing. </h3>
 
 <h2>Some of my Ethical Hacking Projects:</h2>
-- <a href="https://github.com/k-cochrane/Network-Scanner">Network Scanner </a>
-- <a href="https://github.com/k-cochrane/ARP-Spoofer">ARP Spoofer for MitM Attack </a>
-- <a href="https://github.com/k-cochrane/Keylogger">Keylogger </a>
+- <a href="https://github.com/k-cochrane/Network-Scanner">Network Scanner </a><br>
+- <a href="https://github.com/k-cochrane/ARP-Spoofer">ARP Spoofer for MitM Attack </a><br>
+- <a href="https://github.com/k-cochrane/Keylogger">Keylogger </a><br>
 - <a href="https://github.com/k-cochrane/Stealth-Report">Stealth Report </a>
 
 <h2> Connect with me:</h2>
