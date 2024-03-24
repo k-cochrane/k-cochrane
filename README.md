@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kevin! <br/></h1><h3>I'm an English Teacher aspiring to move into Cybersecurity with a focus on Pentetration Testing. </h3>
 
 <h2>Some of my Ethical Hacking Projects:</h2>
-<ul> <a href="https://github.com/k-cochrane/Network-Scanner">Network Scanner </a>
+<ul color="white"> <a href="https://github.com/k-cochrane/Network-Scanner">Network Scanner </a>
 
 <h2> Connect with me:</h2>
 
