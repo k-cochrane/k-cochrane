@@ -1,5 +1,5 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/k-cochrane">Programmer</a>, <a href="">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-<!--
+<h1>Hi, I'm Kevin! <br/>I'm an English Teacher aspiring to move into Cybersecurity with a focus on Pentetration Testing. 
+  <!--
 **k-cochrane/k-cochrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
