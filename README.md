@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/k-cochrane">Programmer</a>, <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/kevin-cochrane-04509424b/)">Cybersecurity Professional</a> 
 <!--
 **k-cochrane/k-cochrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
