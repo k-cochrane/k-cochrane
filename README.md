@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/>I'm an English Teacher aspiring to move into Cybersecurity with a focus on Pentetration Testing. 
+<h1>Hi, I'm Kevin! <br/></h1><h3>I'm an English Teacher aspiring to move into Cybersecurity with a focus on Pentetration Testing. </h3>
   <!--
 **k-cochrane/k-cochrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
